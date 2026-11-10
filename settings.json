@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "PerzaanLive",
+    "username": "lightsmpbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "sadnode1.sadhost.com",
-    "port": 28900,
+    "ip": "lightsmps2.mcsh.gg",
+    "port": 25565,
     "version": "1.21.1"
   },
   "position": {
