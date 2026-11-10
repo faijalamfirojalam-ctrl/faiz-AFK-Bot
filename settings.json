@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "lightsmps2.mcsh.gg",
+    "ip": "148.113.0.7:18858",
     "port": 25565,
     "version": "1.21.1"
   },
