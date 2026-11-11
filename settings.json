@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "lightsmpbot",
+    "username": " Lightsmpbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "lightsmps2.mcsh.gg",
-    "port": 25565,
+    "ip": " Lightsmps2.aternos.me",
+    "port": 53892,
     "version": "1.21.1"
   },
   "position": {
